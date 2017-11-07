@@ -1,0 +1,2 @@
+# asteriks
+Scripts para automação
